@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "tl1-tp7-2024-Jasimus.sln"
+    "dotnet.defaultSolution": "tl1-tp7-2024-Jasimus.sln",
+    "cmake.configureOnOpen": true
 }

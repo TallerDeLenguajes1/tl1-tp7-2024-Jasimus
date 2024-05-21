@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alumno\\Desktop\\tp7\\tl1-tp7-2024-Jasimus\\tl1-tp7-2024-Jasimus.csproj": {}
+    "C:\\Users\\Alumno\\Desktop\\tp7\\tl1-tp7-2024-Jasimus\\tl1-tp7-2024-Jasimus.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alumno\\Desktop\\tp7\\tl1-tp7-2024-Jasimus\\tl1-tp7-2024-Jasimus.csproj": {
+    "C:\\Users\\Alumno\\Desktop\\tp7\\tl1-tp7-2024-Jasimus\\tl1-tp7-2024-Jasimus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alumno\\Desktop\\tp7\\tl1-tp7-2024-Jasimus\\tl1-tp7-2024-Jasimus.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\tp7\\tl1-tp7-2024-Jasimus\\tl1-tp7-2024-Jasimus.csproj",
         "projectName": "tl1-tp7-2024-Jasimus",
-        "projectPath": "c:\\Users\\Alumno\\Desktop\\tp7\\tl1-tp7-2024-Jasimus\\tl1-tp7-2024-Jasimus.csproj",
+        "projectPath": "C:\\Users\\Alumno\\Desktop\\tp7\\tl1-tp7-2024-Jasimus\\tl1-tp7-2024-Jasimus.csproj",
         "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alumno\\Desktop\\tp7\\tl1-tp7-2024-Jasimus\\obj\\",
+        "outputPath": "C:\\Users\\Alumno\\Desktop\\tp7\\tl1-tp7-2024-Jasimus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
